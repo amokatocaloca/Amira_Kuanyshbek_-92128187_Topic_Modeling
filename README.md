@@ -37,6 +37,7 @@ Post-Processing
 - The second part of the script requires the path to the clustered data CSV file to perform further analysis and visualization.
 
 Note
+- e63bd3159d should be executed first
 - The script may require adjustments to the file paths, parameters for vectorization, dimensionality reduction, and clustering to suit the specific dataset and analysis needs.
 - It is advised to review and adjust the hyperparameters for UMAP and HDBSCAN based on the dataset size and computational resources.
 
