@@ -7,7 +7,8 @@ Prerequisites
 - Python 3.x
 - Libraries: `sentence_transformers`, `hdbscan`, `dask`, `pandas`, `numpy`, `seaborn`, `matplotlib`, `umap-learn`, `nltk`, `scikit-learn`
 - Install the required libraries using `pip install sentence_transformers hdbscan`.
-- Text files and the Arxiv database (to be downloaded from this repo)
+- Text files (to be downloaded from this repo)
+- The link to download the arxiv database: https://www.kaggle.com/Cornell-University/arxiv
 
 Features
 - Text preprocessing with normalization, tokenization, and lemmatization.
