@@ -1,4 +1,3 @@
-README for Text Analysis Script
 
 
 This script is designed for processing and analyzing large collections of text data from scientific literature. The goal is to extract, categorize, and visualize significant topics within the corpus using advanced natural language processing (NLP) techniques.
