@@ -1,12 +1,13 @@
 README for Text Analysis Script
 
-Overview
+
 This script is designed for processing and analyzing large collections of text data from scientific literature. The goal is to extract, categorize, and visualize significant topics within the corpus using advanced natural language processing (NLP) techniques.
 
 Prerequisites
 - Python 3.x
 - Libraries: `sentence_transformers`, `hdbscan`, `dask`, `pandas`, `numpy`, `seaborn`, `matplotlib`, `umap-learn`, `nltk`, `scikit-learn`
 - Install the required libraries using `pip install sentence_transformers hdbscan`.
+- Text files and the Arxiv database (to be downloaded from this repo)
 
 Features
 - Text preprocessing with normalization, tokenization, and lemmatization.
